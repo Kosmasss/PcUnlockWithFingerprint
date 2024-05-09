@@ -1,10 +1,12 @@
-#parts 
+<h2>#Parts</h2> 
 1)arduino uno/nano 
 2)fingerprint sensor (Waveshare Round-shaped Capacitive UART Fingerprint Sensor )
 3)relay
 4)jumper wires
-#software
+
+<h2>#software<h2>
 1)Arduino Ide 
-#Librarys 
+
+<h2>#Librarys </h2> 
 wv-uart-fingerprint (https://github.com/lbuchs/wv-uart-fingerprint.git)
 
